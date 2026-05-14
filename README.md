@@ -22,24 +22,54 @@ A few more worth a look: **[Kisan-Sevak](https://github.com/nishit3/Kisan-Sevak)
 
 ### Tech I work with
 
-**Languages** &nbsp; Java &middot; Python &middot; JavaScript &middot; SQL &middot; C++
+**Languages**
 
-**Backend** &nbsp; Spring Boot &middot; REST APIs &middot; Microservices &middot; OOD &middot; System Design
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**AI / Data** &nbsp; PyTorch &middot; Scikit-learn &middot; Pandas &middot; LLMs (Gemini, GPT) &middot; Google AI SDK
+**Backend**
 
-**Cloud / DevOps** &nbsp; AWS &middot; OCI &middot; GCP &middot; Docker &middot; Kubernetes &middot; GitHub Actions &middot; CI/CD
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
-**Testing / Observability** &nbsp; JUnit &middot; Mockito &middot; Grafana &middot; Prometheus &middot; ELK Stack &middot; TDD
+**AI / Data**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**Cloud / DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Testing / Observability**
+
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=mockito&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
 
 ---
 
 ### A few things I'm proud of
 
-- 500+ DSA problems solved across LeetCode and GeeksforGeeks
 - 2 IEEE conference papers — ICCE 2024 (Las Vegas), ICCCNT 2023 (Delhi)
 - 1st place, SAP-GTU Code Unnati Innovation Marathon 2024 (500+ participants)
 - 1st place, NASSCOM Maverick Effect AI Challenge 2024 (national level)
+- 500+ DSA problems solved across LeetCode and GeeksforGeeks
 
 ---
 
