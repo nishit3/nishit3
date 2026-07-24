@@ -75,7 +75,7 @@ A few more worth a look: **[Kisan-Sevak](https://github.com/nishit3/Kisan-Sevak)
 
 ### Reach me
 
-📧 nishit@myjobflows.com
+📧 nishit.c@myjobflows.com
 🔗 [LinkedIn](https://www.linkedin.com/in/nishit-chaudhary-4ab0701b4) &nbsp;&middot;&nbsp; [Portfolio](https://portfolio-website-dun-two-83.vercel.app/)
 
 Outside of code: fragrances, coffee, and the occasional CS:GO / Valorant queue.
